@@ -76,6 +76,9 @@ pip install -r requirements.txt
 
 
 ## Outlook: Mehr Verbindungen unter Gephi--> im Pad nachschauen. Spezialist! Parsa.
+For the future we have decided to expand our recommender system even further.
+
+So far we have built in 500 movie titles, directors and reviews from different users for the recommender system.  We would like to expand this corpus in order to be able to create further connections in Gephi with the previous and the additional data.  The more extensive our corpus is, the better we can deliver specific results for the user.
 
 ## Anhang ??? notwendig?
   - Archiv und Glossar
